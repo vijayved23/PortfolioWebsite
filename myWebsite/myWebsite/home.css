@@ -1,0 +1,80 @@
+
+/* MAIN COLOR #4558ed */
+body{
+    
+    /* background-image: url("csb.jpg"); */
+    background-color: white  
+}
+
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: #4558ed;
+    font-size: 200%;
+}
+.navbar-dark .navbar-nav .nav-link a:hover{
+    color: grey;
+}
+
+ul.nav a:hover{
+    color: grey;
+}
+
+.navbar-light .navbar-nav {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#welcome{
+    color: #4558ed;
+    text-align: center;
+    margin-bottom: ;
+    
+}
+
+#logo {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+#about{
+    width: 100%;
+    height: 500px;
+    background-color:#4558ed;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.aboutTextColor{
+    color: White;
+}
+
+#aboutMe{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 150%;
+    margin-top: 3%;
+}
+
+hr{
+    background-color: black;
+}
+
+#homeDesign{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Vijay {
+    padding-top: 2%;
+}
